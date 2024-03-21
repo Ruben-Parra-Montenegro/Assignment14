@@ -1,0 +1,2 @@
+## how to run 
+this is pretty straight forward, just run the application, it should open a window that prompts you to choose units and type in a number, after that is done. press convert and you will get your converted value.
